@@ -43,4 +43,9 @@ dependencies {
 
     // Progress view
     implementation 'com.github.rahatarmanahmed:circularprogressview:2.5.0'
+
+    // Dagger
+    implementation 'com.google.dagger:dagger-android:2.23'
+    implementation 'com.google.dagger:dagger-android-support:2.23'
+    annotationProcessor 'com.google.dagger:dagger-android-processor:2.23'
 }
