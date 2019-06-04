@@ -4,4 +4,8 @@
         чтобы увидеть ваших друзей
     </string>
     <string name="btn_login_enter">Войти</string>
+    <string name="login_loading_failed_msg">Ошибка при логине в ВК</string>
+    <string name="fiends_query_hint">Введите свой запрос здесь</string>
+    <string name="friends_no_items">Список друзей пуст</string>
+    <string name="friend_no_city">Город не указан</string>
 </resources>
